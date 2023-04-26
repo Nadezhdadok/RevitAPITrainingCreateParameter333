@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\APPLICATIONS\RevitAPITraining\RevitAPITrainingCreateParameter331.dll"</Assembly>
+		<AddInId>BF5625C8-5DC8-42F8-9BB1-90E05BB473CE</AddInId>
+		<FullClassName>RevitAPITrainingCreateParameter331.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>параметр длина с запасом</Text>
+	</AddIn>
+</RevitAddIns>
